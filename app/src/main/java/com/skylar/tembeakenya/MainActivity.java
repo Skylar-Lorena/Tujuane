@@ -1,4 +1,4 @@
-package com.skylar.tujuane;
+package com.skylar.tembeakenya;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.skylar.tembeakenya.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
